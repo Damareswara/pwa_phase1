@@ -1,0 +1,42 @@
+{
+  "basics":{
+    "image":"peaceful-nature-4.jpg",
+  "name":"Damareswara",
+  "emain":"damareswara4@gmail.com",
+  "career":"student"
+},
+"career":{
+  "info":"i want to become general of indian army"
+},
+"education":[
+  {
+    "seriol_no":"1",
+    "degree":"b.tech",
+    "institute":"mits" ,
+    "per":"2018"
+  },
+  {
+    "seriol_no":"2",
+    "degree":"inter",
+    "institute":"sri_chaitanya" ,
+    "per":"2016"
+  },
+  {
+    "seriol_no":"3",
+    "degree":"ssc",
+    "institute":"sri_chaitanya_techno_schoo" ,
+    "per":"2014"
+  }
+],
+"Technical_skill":[
+  {
+    "info":"c"
+  },
+  {
+    "info":"c++"
+  },
+  {
+    "info":"java"
+  }
+]
+}

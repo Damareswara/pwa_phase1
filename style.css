@@ -1,0 +1,29 @@
+body{
+
+}
+.parent{
+  display:flex;
+    margin:4%;
+    box-shadow:5px black;
+}
+.child{
+    border: 2px solid blue;
+    margin:2%;
+    text-align: center;
+    width:30%;
+    box-shadow:5px 5px red;
+    background-color: #B2f9e4;
+}
+img{
+    width:100%;
+}
+@media screen and (min-width:481px) and (max-width:760px){
+  .parent{
+    flex-wrap: wrap;
+  }
+  .child{
+    width: 40%;
+    flex-wrap: wrap;
+  }
+
+}

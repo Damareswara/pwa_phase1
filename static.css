@@ -1,0 +1,41 @@
+body{
+background: #A9F5D0;
+}
+.profile{
+background-color: #b9f5d0;
+  margin: 2%;
+  padding: 2%;
+  display: flex;
+  text-content: center;
+  /* justify-content: space-around; */
+}
+.student_id{
+  background: #FA58F4;
+  justify-content: space-around;
+  text-align: center;
+  width: 25%;
+  margin: 3%;
+  padding: 5%;
+  border-radius: 5%;
+}
+.Resume{
+  background-color: #0174DF;
+  width:65%;
+  margin: 3%;
+  padding: 5%;
+  border-radius: 5%;
+
+  /* text-align: center; */
+}
+img {
+  width: 100%;
+}
+table{
+  width: 100%;
+  border: 2px solid red;
+  text-align: center;
+}
+table th,td{
+  border: 1px solid black;
+  border-collapse: collapse;
+}
